@@ -5,6 +5,7 @@ markdown: kramdown
 highlighter: pygments
 
 # Redirects
+gems:
   - jekyll-redirect-from
 
 # Organization

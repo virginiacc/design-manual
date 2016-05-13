@@ -4,6 +4,9 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "
 markdown: kramdown
 highlighter: pygments
 
+# Redirects
+  - jekyll-redirect-from
+
 # Organization
 org: CFPB
 
